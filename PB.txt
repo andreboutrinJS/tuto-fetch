@@ -1,0 +1,11 @@
+
+tuto Nadris : fetch
+Get : récupere les donnée
+post : créer les donner
+correction 09-06-2023
+
+
+// teste
+// // 
+// fetch("https://github.com/P-6-BOUTRIN")
+// .then(reponse => console.log(reponse.name))
